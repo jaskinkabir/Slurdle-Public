@@ -19,10 +19,10 @@ As gamers, I know most of your brains work in a similar way. When your optical n
 While my undying love for Shigeru Miyazaki knows no bounds, I must agree with the world of gaming journalism in that the Dark Souls franchise is incredibly ableist in making their games too difficult for little baby journalists to play. To show love for the gimps and retards who make up most of my player base, I have decided to implement yet another all-new system: the guess forgiveness system. On each day, you will be given one chance to have a guess given back to you. The forgive guess command will randomly choose two slurs for you, but only one of them will win back your guess. The command will also give you a phrase which you must send with what you believe to be the chosen slur into a text channel other than the slurdle channel. If you chose the right slur and followed the above instructions, one guess will be given back to you. Restoring a guess will also increase your score by one point.
 
 ## NEW COMMANDS
-*/hint fulllist: Costs 3 guesses. Returns a full list of possible slurs. Equal to using partial list 3 times
-*/hint partiallist: Costs 1 guess. Returns a small list of slurs of the right length. List gets bigger on each use
-*/hint target: Costs 0 guesses. Returns the group of 'people' that today's slur targets
-*/hint gethints: Costs 0 guesses. Simply returns the list of slurs you have given up your guesses for.
-*/slurdleboard global: Returns the global slurdlers rankings
-*/slurdleboard server: Returns the slurdlers ranking within this server
-*/slurdle forgiveguess: Returns instructions on how you might win back one guess. You may only do this once per game.
+* /hint fulllist: Costs 3 guesses. Returns a full list of possible slurs. Equal to using partial list 3 times
+* /hint partiallist: Costs 1 guess. Returns a small list of slurs of the right length. List gets bigger on each use
+* /hint target: Costs 0 guesses. Returns the group of 'people' that today's slur targets
+* /hint gethints: Costs 0 guesses. Simply returns the list of slurs you have given up your guesses for.
+* /slurdleboard global: Returns the global slurdlers rankings
+* /slurdleboard server: Returns the slurdlers ranking within this server
+* /slurdle forgiveguess: Returns instructions on how you might win back one guess. You may only do this once per game.
